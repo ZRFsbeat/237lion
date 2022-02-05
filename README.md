@@ -1,2 +1,2 @@
 # 237lion
-ionic porjects
+ionic projects
